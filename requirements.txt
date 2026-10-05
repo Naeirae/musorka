@@ -1,0 +1,6 @@
+PySide6>=6.7,<7
+Send2Trash>=1.8,<2
+google-api-python-client>=2.140,<3
+google-auth>=2.35,<3
+google-auth-httplib2>=0.2,<1
+google-auth-oauthlib>=1.2,<2
